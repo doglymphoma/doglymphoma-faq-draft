@@ -1,8 +1,31 @@
-## What is Lymphoma 
+### Chapter Contents:
+- Introduction
+- What is Cancer
+- What is Lymphosarcoma
+- Lymphoma Sub-Types
+- Lymphoma Stages
+- Lynphoma Stage Categories
 
-### Chapter Contents: 
-- What is Cancer 
-- What is Lymphoma 
-- Lymphoma Sub-Types 
-- Lymphoma Stages 
+#### Introduction
+
+#### What is Cancer
+
+#### What is Lymphosarcoma
+
+#### Lymphoma Sub-Types
+
+#### Lymphoma Stages
+-  Stage One:
+-  Stage Two:
+-  Stage Three:
+-  Stage Four:
+-  Stage Five:
+
+#### Lymphoma Stage Categories
+
+- A
+- B
+- E
+- S
+- X
 
